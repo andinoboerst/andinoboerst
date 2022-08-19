@@ -8,4 +8,8 @@
 
 :rocket: My Projects:
 
+Data Visualization:
 [![](https://img.shields.io/badge/-📈%20Covid%20vs%20Temperature-000)](https://github.com/andinoboerst/Covid-19-vs.-Temperature)
+
+Machine Learning:
+[![](https://img.shields.io/badge/-🗿%20Blight%20Tickets%20Classification-000)](https://github.com/andinoboerst/Blight-Tickets-Detroit)
