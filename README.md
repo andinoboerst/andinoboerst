@@ -7,7 +7,7 @@
 - 📫 How to reach me: andino.borst@gmail.com.
 
 
-##:rocket: My Projects:
+## :rocket: My Projects:
 
 ### Data Visualization 📈:
 
