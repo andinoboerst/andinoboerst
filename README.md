@@ -1,10 +1,7 @@
 # Andino Börst
 ## Engineer
 
-- 👋 Hi, I’m @andinoboerst
-- 👀 I’m interested in Machine Learning ,Numerical Methods and Data Science with an application on CAE.
-- 🌱 I’m currently learning Uncertainty Quantification, Machine Learning and Data Science.
-- 📫 How to reach me: andino.borst@gmail.com.
+Ph.D. Candidate at the TU Munich. Working on Particle Methods in CAE within the @KratosMultiphysics framework.
 
 
 ## :rocket: My Projects:
