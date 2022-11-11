@@ -1,7 +1,7 @@
 # Andino Börst
 ## Engineer
 
-Ph.D. Candidate at the TU Munich. Working on Particle Methods in CAE within the (@KratosMultiphysics)(https://github.com/KratosMultiphysics) framework.
+Ph.D. Candidate at the TU Munich. Working on Particle Methods in CAE within the [@KratosMultiphysics](https://github.com/KratosMultiphysics) framework.
 
 
 ## :rocket: My Projects:
