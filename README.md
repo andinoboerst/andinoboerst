@@ -16,5 +16,5 @@ Ph.D. Candidate at the TU Munich. Working on Particle Methods in CAE within the 
 [![](https://img.shields.io/badge/-🧠%20Neural%20Network%20in%20Python-000)](https://github.com/andinoboerst/NeuralNetwork_Python)
 
 
-[!Andino's GitHub Stats(https://github-readme-stats.vercel.app/api?username=andinoboerst&show_icons=true&theme=gruvbox)](https://github.com/andinoboerst/github-readme-stats)
+[![Andino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andinoboerst&show_icons=true&theme=gruvbox)](https://github.com/andinoboerst/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andinoboerst&show_icons=true&theme=gruvbox)](https://github.com/andinoboerst/github-readme-stats)
