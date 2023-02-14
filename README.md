@@ -17,4 +17,4 @@ Ph.D. Candidate at the TU Munich. Working on Particle Methods in CAE within the 
 
 
 [![Andino's GitHub stats](https://github-readme-stats.vercel.app/api?username=andinoboerst&show_icons=true&theme=radical)](https://github.com/andinoboerst/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andinoboerst)](https://github.com/andinoboerst/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andinoboerst&show_icons=true&theme=radical)](https://github.com/andinoboerst/github-readme-stats)
