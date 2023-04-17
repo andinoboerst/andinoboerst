@@ -1,7 +1,7 @@
 # Andino Börst
-## Computational Mechanics Engineer
+## Data Scientist
 
-Ph.D. Candidate at the TU Munich. Working on Particle Methods in CAE within the [@KratosMultiphysics](https://github.com/KratosMultiphysics) framework.
+Data Scientist @ SEAT:CODE.
 
 
 ## :rocket: My Projects:
