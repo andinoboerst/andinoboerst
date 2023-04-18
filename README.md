@@ -2,7 +2,8 @@
 ## Data Scientist
 
 Data Scientist @ SEAT:CODE.
-Professional Account: @andino-seatcode
+
+Professional Account: [@andino-seatcode](https://github.com/andino-seatcode)
 
 
 ## :rocket: My Projects:
