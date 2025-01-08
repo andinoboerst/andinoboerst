@@ -1,5 +1,5 @@
 # Andino Börst
-## Data Scientist
+## Data Scientist / Computational Mechanics Engineer
 
 PhD Student at CIMNE.
 
