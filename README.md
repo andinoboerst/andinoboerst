@@ -1,9 +1,7 @@
 # Andino Börst
 ## Data Scientist
 
-Data Scientist @ SEAT:CODE.
-
-Professional Account: [@andino-seatcode](https://github.com/andino-seatcode)
+PhD Student at CIMNE.
 
 
 ## :rocket: My Projects:
