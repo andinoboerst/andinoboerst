@@ -44,6 +44,9 @@
 
 ## 📈 Stats & Activity
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=andinoboerst&show_icons=true&theme=gruvbox&count_private=true" alt="Andino's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andinoboerst&show_icons=true&theme=gruvbox&layout=compact" alt="Top Langs" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats-extended.vercel.app/api?username=andinoboerst&show_icons=true&theme=gruvbox&count_private=true&v=1" alt="Andino's GitHub Stats" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=andinoboerst&show_icons=true&theme=gruvbox&layout=compact&v=1" alt="Top Langs" />
 </p>
