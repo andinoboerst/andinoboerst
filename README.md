@@ -1,20 +1,49 @@
-# Andino Börst
-## Data Scientist / Computational Mechanics Engineer
+<div align="center">
 
-PhD Student @ CIMNE.
+# 🛠️ Andino Börst
+### Data Scientist | Computational Mechanics Engineer
+**PhD Student at [CIMNE](https://www.cimne.com/)**
 
+---
 
-## :rocket: My Projects:
+"Bridging the gap between traditional engineering and modern artificial intelligence."
 
-### Data Visualization 📈:
+---
+</div>
 
-[![](https://img.shields.io/badge/-🦠%20Covid%20vs%20Temperature-000)](https://github.com/andinoboerst/covid_vs_temperature)
+## ☕ Featured Project: Moka Tracker
+**[Moka Tracker](https://github.com/andinoboerst/moka_tracker)** is a specialized tool designed for coffee enthusiasts. It allows you to log every variable of your Moka pot brewing process and uses **AI-driven insights** to suggest adjustments for the perfect cup.
 
-### Machine Learning 🗿:
+- 🚀 **Live Demo:** [moka-tracker.vercel.app](https://moka-tracker.vercel.app/)
+- 📈 **Goal:** Eliminating the bitterness (or sourness) through data-driven brewing.
 
-[![](https://img.shields.io/badge/-🏡%20Blight%20Tickets%20Classification-000)](https://github.com/andinoboerst/blight_tickets_detroit)
-[![](https://img.shields.io/badge/-🧠%20Neural%20Network%20in%20Python-000)](https://github.com/andinoboerst/neural_network_python)
+---
 
+## 🚀 My Projects
 
-[![Andino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andinoboerst&show_icons=true&theme=gruvbox)](https://github.com/andinoboerst)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andinoboerst&show_icons=true&theme=gruvbox)](https://github.com/andinoboerst)
+### 🧠 Machine Learning & AI
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| **Blight Tickets** | Classification of non-compliance for Detroit tickets. | [View Repo](https://github.com/andinoboerst/blight_tickets_detroit) |
+| **Neural Network** | A ground-up implementation of NNs in Python. | [View Repo](https://github.com/andinoboerst/neural_network_python) |
+
+### 📊 Data Visualization & Engineering
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| **Covid vs Temp** | Analyzing the correlation between climate and viral spread. | [View Repo](https://github.com/andinoboerst/covid_vs_temperature) |
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- **Data Science:** ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+- **Tools:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📈 Stats & Activity
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=andinoboerst&show_icons=true&theme=gruvbox&count_private=true" alt="Andino's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andinoboerst&show_icons=true&theme=gruvbox&layout=compact" alt="Top Langs" />
+</p>
