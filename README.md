@@ -14,7 +14,7 @@
 ## ☕ Featured Project: Moka Tracker
 **[Moka Tracker](https://github.com/andinoboerst/moka_tracker)** is a specialized tool designed for coffee enthusiasts. It allows you to log every variable of your Moka pot brewing process and uses **AI-driven insights** to suggest adjustments for the perfect cup.
 
-- 🚀 **Live Demo:** [moka-tracker.vercel.app](https://moka-tracker.vercel.app/)
+- 🚀 **Live Demo:** [mokatracker.com](https://mokatracker.com/)
 - 📈 **Goal:** Eliminating the bitterness (or sourness) through data-driven brewing.
 
 ---
